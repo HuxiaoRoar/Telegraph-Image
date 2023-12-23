@@ -1,0 +1,29 @@
+{
+    "images": [
+        {
+            "url": "/356d9f04dcc077ad3721b.jpg"
+        },
+        {
+            "url": "/8c672c6725022577365e4.jpg"
+        },
+        {
+            "url": "/97ffc1b909bfa785342b6.jpg"
+        },
+        {
+            "url": "/333cf756de34d54292c95.jpg"
+        },
+        {
+            "url": "/af238ba7e8e582129afa5.jpg"
+        },
+        {
+            "url": "/2e61070ddea5ff607bf86.jpg"
+        }
+    ],
+    "tooltips": {
+        "loading": "正在加载...",
+        "previous": "上一个图像",
+        "next": "下一个图像",
+        "walle": "此图片不能下载用作壁纸。",
+        "walls": "下载今日美图。仅限用作桌面壁纸。"
+    }
+}  s
